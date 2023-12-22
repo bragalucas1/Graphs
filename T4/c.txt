@@ -1,0 +1,35 @@
+3
+BBAS3
+ITSA4
+Capicoin
+
+3
+BBAS3 0.5 ITSA4
+ITSA4 10.0 Capicoin
+Capicoin 0.21 BBAS3
+
+3
+Grama
+Carrapato
+Doce
+
+3
+Grama 2.0 Carrapato
+Carrapato 0.5 Doce
+Doce 1.1 Grama
+
+3
+Jacare
+Capicoin
+Seriema
+
+6
+Jacare 0.5 Capicoin
+Jacare 4.9 Seriema
+Capicoin 10.0 Seriema
+Capicoin 1.99 Jacare
+Seriema 0.09 Capicoin
+Seriema 0.19 Jacare
+
+0
+
